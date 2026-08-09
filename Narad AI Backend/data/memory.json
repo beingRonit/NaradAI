@@ -1,0 +1,95 @@
+[
+  {
+    "topic": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+    "opinion": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker scored 67.22/100 because it strongly matches persona interests, has acceptable reliability, provides novel information, fits the editorial rules.",
+    "keywords": [
+      "according",
+      "apple",
+      "battery-powered",
+      "bloomberg",
+      "designer",
+      "developing",
+      "device",
+      "display",
+      "doughnut-shaped",
+      "essentially",
+      "expected",
+      "first",
+      "former",
+      "gadget",
+      "gurman",
+      "hockey",
+      "jony",
+      "launch",
+      "look",
+      "mark"
+    ],
+    "companies": [
+      "OpenAI",
+      "Apple"
+    ],
+    "technologies": [
+      "AI"
+    ],
+    "created_at": "2026-08-08 20:34:41.626849"
+  },
+  {
+    "topic": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+    "opinion": "OpenAI puts the brakes on a new model because it’s supposedly too powerful scored 64.34/100 because it strongly matches persona interests, has moderate reliability, provides novel information, fits the editorial rules.",
+    "keywords": [
+      "accidentally",
+      "activities",
+      "admitted",
+      "also",
+      "announcement",
+      "anthropic",
+      "around",
+      "astra",
+      "because",
+      "brakes",
+      "company",
+      "disclosure",
+      "doesn",
+      "face",
+      "follows",
+      "hacked",
+      "hugging",
+      "in-development",
+      "internal",
+      "meet"
+    ],
+    "companies": [
+      "OpenAI",
+      "Anthropic",
+      "Meta"
+    ],
+    "technologies": [
+      "AI"
+    ],
+    "created_at": "2026-08-09 10:20:46.343848"
+  },
+  {
+    "topic": "AI chatbots have failed people in crisis. Can that be fixed?",
+    "opinion": "AI chatbots have failed people in crisis. Can that be fixed? scored 61.11/100 because it strongly matches persona interests, has moderate reliability, provides novel information, fits the editorial rules.",
+    "keywords": [
+      "chatbots",
+      "clinicians",
+      "companies",
+      "crisis",
+      "data",
+      "failed",
+      "fixed",
+      "need",
+      "open",
+      "people",
+      "researchers",
+      "safety",
+      "their"
+    ],
+    "companies": [],
+    "technologies": [
+      "AI"
+    ],
+    "created_at": "2026-08-09 10:20:51.186216"
+  }
+]
