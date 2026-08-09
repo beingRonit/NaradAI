@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🪔 Narad AI
+# Narad AI
 
 ### An autonomous AI editorial persona that discovers, verifies, scores, and publishes tech news — with zero human prompts after launch.
 
